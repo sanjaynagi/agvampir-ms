@@ -1,0 +1,41 @@
+contig	gene_id	start	end	strand	biotype	description	length_bp	overlaps_significant_snp	n_significant_snps_in_gene	distance_to_nearest_significant_snp_bp	go_terms	genotyped_snp_consequences
+2L	AGAP006536	33986817	34016554	+	protein_coding	Arrowhead	29738	False	0	84173	GO:0003677 DNA binding	
+2L	AGAP006537	34022549	34024344	+	protein_coding	Arrowhead	1796	False	0	76383	GO:0000977 RNA polymerase II transcription regulatory region sequence-specific DNA binding; GO:0000981 DNA-binding transcription factor activity, RNA polymerase II-specific; GO:0003677 DNA binding; GO:0005634 nucleus; GO:0030182 neuron differentiation; GO:0045944 positive regulation of transcription by RNA polymerase II; GO:0046872 metal ion binding	
+2L	AGAP006540	34049560	34076342	+	protein_coding	LIM homeobox protein	26783	False	0	24385	GO:0003677 DNA binding	
+2L	AGAP006538	34057954	34058025	+	tRNA		72	False	0	42702		
+2L	AGAP006539	34064109	34065067	+	protein_coding	eupolytin	959	False	0	35660	GO:0004252 serine-type endopeptidase activity; GO:0006508 proteolysis; GO:0008236 serine-type peptidase activity	
+2L	AGAP006541	34076528	34082538	+	protein_coding	Transcriptional regulators containing a dna-binding hth domain and an aminotransferase domain transcription regulator protein	6011	False	0	18189	GO:0003824 catalytic activity; GO:0009058 biosynthetic process; GO:0009074 aromatic amino acid catabolic process; GO:0030170 pyridoxal phosphate binding; GO:0047536 L-2-aminoadipate:2-oxoglutarate transaminase activity	
+2L	AGAP006542	34077592	34079351	-	protein_coding	cactin	1760	False	0	21376	GO:0005515 protein binding	
+2L	AGAP006543	34087430	34093806	+	protein_coding		6377	False	0	6921	GO:0016021	
+2L	AGAP028608	34093935	34096997	-	protein_coding		3063	False	0	3730	GO:0003676 nucleic acid binding; GO:0003677 DNA binding	
+2L	AGAP006546	34100051	34106245	+	protein_coding		6195	True	8	0	GO:0016021	34100727:5_prime_UTR_variant; 34100728:5_prime_UTR_variant; 34100758:5_prime_UTR_premature_start_codon_gain_variant; 34100769:5_prime_UTR_variant; 34100775:5_prime_UTR_variant; 34100792:5_prime_UTR_variant; 34100830:5_prime_UTR_variant; 34100835:5_prime_UTR_variant; 34100841:5_prime_UTR_premature_start_codon_gain_variant; 34100849:5_prime_UTR_variant
+2L	AGAP006547	34107955	34110522	+	protein_coding		2568	False	0	7114	GO:0016021	
+2L	AGAP006548	34111266	34113290	+	protein_coding	glycine cleavage system H protein	2025	False	0	4851	GO:0005739 mitochondrion; GO:0005960 glycine cleavage complex; GO:0019464 glycine decarboxylation via glycine cleavage system	
+2L	AGAP006549	34113357	34114263	-	protein_coding		907	False	0	3878		
+2L	AGAP006550	34115122	34115466	-	protein_coding		345	False	0	2675		
+2L	AGAP006551	34117678	34118222	-	protein_coding		545	True	4	0		34118141:missense_variant (p.Ala12Val); 34118144:missense_variant (p.Val11Ala); 34118159:missense_variant (p.Ala6Val); 34118177:5_prime_UTR_variant
+2L	AGAP006552	34120726	34121072	-	protein_coding		347	False	0	2466		
+2L	AGAP006553	34122195	34122738	-	protein_coding		544	False	0	3935		
+2L	AGAP006554	34124499	34124839	-	protein_coding		341	False	0	6239		
+2L	AGAP006555	34125951	34126410	+	protein_coding		460	False	0	7691		
+2L	AGAP006556	34128579	34128909	-	protein_coding		331	False	0	10319		
+2L	AGAP006557	34130955	34131285	-	protein_coding		331	False	0	12695		
+2L	AGAP006558	34133346	34133677	-	protein_coding		332	False	0	15086		
+2L	AGAP006559	34137005	34137326	-	protein_coding		322	False	0	18745		
+2L	AGAP006560	34141798	34142119	+	protein_coding		322	False	0	23538		
+2L	AGAP006561	34143241	34143582	+	protein_coding		342	False	0	24981		
+2L	AGAP006562	34143856	34144173	-	protein_coding		318	False	0	25596		
+2L	AGAP006563	34145658	34145988	+	protein_coding		331	False	0	27398		
+2L	AGAP006564	34146268	34146585	-	protein_coding		318	False	0	28008		
+2L	AGAP028429	34148066	34148396	+	protein_coding		331	False	0	29806		
+2L	AGAP006566	34148655	34148972	-	protein_coding		318	False	0	30395		
+2L	AGAP028428	34150050	34150674	+	protein_coding		625	False	0	31790		
+2L	AGAP029822	34150793	34151264	-	protein_coding		472	False	0	32533		
+2L	AGAP029823	34151632	34152039	-	protein_coding		408	False	0	33372		
+2L	AGAP006568	34152345	34152618	-	protein_coding		274	False	0	34085		
+2L	AGAP006569	34158499	34168017	+	protein_coding	acetyl-CoA synthetase	9519	False	0	40239	GO:0003824 catalytic activity; GO:0003987 acetyl-CoA synthetase activity; GO:0005524 ATP binding; GO:0016208 AMP binding; GO:0019427 obsolete acetyl-CoA biosynthetic process from acetate	
+2L	AGAP006570	34168871	34170407	+	protein_coding	myo-inositol-1(or 4)-monophosphatase	1537	False	0	50611	GO:0006021 inositol biosynthetic process; GO:0007165 signal transduction; GO:0008934 inositol monophosphate 1-phosphatase activity; GO:0046854 phosphatidylinositol phosphate biosynthetic process; GO:0046855 obsolete inositol phosphate dephosphorylation; GO:0046872 metal ion binding; GO:0052832 inositol monophosphate 3-phosphatase activity; GO:0052833 inositol monophosphate 4-phosphatase activity	
+2L	AGAP006571	34170872	34203002	-	protein_coding	nuclear receptor subfamily 1 group D member 3	32131	False	0	52612	GO:0003677 DNA binding; GO:0003700 DNA-binding transcription factor activity; GO:0003707 nuclear steroid receptor activity; GO:0004879 nuclear receptor activity; GO:0005634 nucleus; GO:0006355 regulation of DNA-templated transcription; GO:0008270 zinc ion binding; GO:0043565 sequence-specific DNA binding	
+2L	AGAP006572	34197256	34197923	+	protein_coding	ubiquinone biosynthesis protein COQ7 homolog	668	False	0	78996	GO:0005634 nucleus; GO:0005743 mitochondrial inner membrane; GO:0006744 ubiquinone biosynthetic process; GO:0008340 determination of adult lifespan; GO:0008682 3-demethoxyubiquinol 3-hydroxylase activity; GO:0010468 regulation of gene expression; GO:0016709 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen; GO:0031314 extrinsic component of mitochondrial inner membrane; GO:0046872 metal ion binding; GO:0055114 obsolete oxidation-reduction process; GO:2000377 regulation of reactive oxygen species metabolic process	
+2L	AGAP006573	34203893	34206602	-	protein_coding	integrin-linked kinase	2710	False	0	85633	GO:0000165 MAPK cascade; GO:0004672 protein kinase activity; GO:0004674 protein serine/threonine kinase activity; GO:0005515 protein binding; GO:0005524 ATP binding; GO:0005925 focal adhesion; GO:0006468 protein phosphorylation; GO:0007160 cell-matrix adhesion; GO:0007229 integrin-mediated signaling pathway; GO:0034446 substrate adhesion-dependent cell spreading	
+2L	AGAP006574	34207128	34217886	+	protein_coding		10759	False	0	88868	GO:0005515 protein binding	

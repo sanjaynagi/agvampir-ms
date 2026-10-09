@@ -1,0 +1,28 @@
+{
+  "location": {
+    "Obuasi": "#636EFA",
+    "Siaya": "#AB63FA",
+    "Kisumu": "#8FD3F4",
+    "VK7": "#C62F2F",
+    "Tiefora": "#EE6A2A",
+    "Tiassale": "#E4472B",
+    "Ngousso": "#F2A03D",
+    "Gaoua": "#0A4F5C",
+    "Moz": "#8FD16A",
+    "Gambia_URR": "#1FA187"
+  },
+  "taxon": {
+    "gambiae": "#DDCC77",
+    "coluzzii": "#CC6677",
+    "arabiensis": "#88CCEE",
+    "gcx3": "#117733",
+    "pwani": "#117733",
+    "unassigned": "#808080",
+    "uncertain": "#808080",
+    "NaN": "#808080"
+  },
+  "dataset_origin": {
+    "agvampir002_field": "#4C78A8",
+    "lab_strains_colony": "#F58518"
+  }
+}

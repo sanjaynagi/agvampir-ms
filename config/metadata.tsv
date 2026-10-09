@@ -1,0 +1,934 @@
+sample_id	taxon	location	country	plate	well_letter	well_number	latitude	longitude	dataset_origin
+GH_01		Obuasi	Ghana	3	A	1			agvampir002_field
+GH_02		Obuasi	Ghana	3	A	2			agvampir002_field
+GH_03		Obuasi	Ghana	3	A	3			agvampir002_field
+GH_04		Obuasi	Ghana	3	A	4			agvampir002_field
+GH_05		Obuasi	Ghana	3	A	5			agvampir002_field
+GH_06		Obuasi	Ghana	3	A	6			agvampir002_field
+GH_07		Obuasi	Ghana	3	A	7			agvampir002_field
+GH_08		Obuasi	Ghana	3	A	8			agvampir002_field
+GH_09		Obuasi	Ghana	3	A	9			agvampir002_field
+GH_10		Obuasi	Ghana	3	A	10			agvampir002_field
+GH_11		Obuasi	Ghana	3	A	11			agvampir002_field
+GH_12		Obuasi	Ghana	3	A	12			agvampir002_field
+GH_13		Obuasi	Ghana	3	B	1			agvampir002_field
+GH_14		Obuasi	Ghana	3	B	2			agvampir002_field
+GH_15		Obuasi	Ghana	3	B	3			agvampir002_field
+GH_16		Obuasi	Ghana	3	B	4			agvampir002_field
+GH_17		Obuasi	Ghana	3	B	5			agvampir002_field
+GH_18		Obuasi	Ghana	3	B	6			agvampir002_field
+GH_19		Obuasi	Ghana	3	B	7			agvampir002_field
+GH_20		Obuasi	Ghana	3	B	8			agvampir002_field
+GH_21		Obuasi	Ghana	3	B	9			agvampir002_field
+GH_22		Obuasi	Ghana	3	B	10			agvampir002_field
+GH_23		Obuasi	Ghana	3	B	11			agvampir002_field
+GH_24		Obuasi	Ghana	3	B	12			agvampir002_field
+GH_25		Obuasi	Ghana	3	C	1			agvampir002_field
+GH_26		Obuasi	Ghana	3	C	2			agvampir002_field
+GH_27		Obuasi	Ghana	3	C	3			agvampir002_field
+GH_28		Obuasi	Ghana	3	C	4			agvampir002_field
+GH_29		Obuasi	Ghana	3	C	5			agvampir002_field
+GH_30		Obuasi	Ghana	3	C	6			agvampir002_field
+GH_31		Obuasi	Ghana	3	C	7			agvampir002_field
+GH_32		Obuasi	Ghana	3	C	8			agvampir002_field
+GH_33		Obuasi	Ghana	3	C	9			agvampir002_field
+GH_34		Obuasi	Ghana	3	C	10			agvampir002_field
+GH_35		Obuasi	Ghana	3	C	11			agvampir002_field
+GH_36		Obuasi	Ghana	3	C	12			agvampir002_field
+GH_37		Obuasi	Ghana	3	D	1			agvampir002_field
+GH_38		Obuasi	Ghana	3	D	2			agvampir002_field
+GH_39		Obuasi	Ghana	3	D	3			agvampir002_field
+GH_40_low_vol		Obuasi	Ghana	3	D	4			agvampir002_field
+GH_41		Obuasi	Ghana	3	D	5			agvampir002_field
+GH_42		Obuasi	Ghana	3	D	6			agvampir002_field
+GH_43		Obuasi	Ghana	3	D	7			agvampir002_field
+GH_44		Obuasi	Ghana	3	D	8			agvampir002_field
+GH_45		Obuasi	Ghana	3	D	9			agvampir002_field
+GH_46		Obuasi	Ghana	3	D	10			agvampir002_field
+GH_47		Obuasi	Ghana	3	D	11			agvampir002_field
+GH_48		Obuasi	Ghana	3	D	12			agvampir002_field
+GH_49		Obuasi	Ghana	3	E	1			agvampir002_field
+GH_50		Obuasi	Ghana	3	E	2			agvampir002_field
+GH_51		Obuasi	Ghana	3	E	3			agvampir002_field
+GH_52		Obuasi	Ghana	3	E	4			agvampir002_field
+GH_53		Obuasi	Ghana	3	E	5			agvampir002_field
+GH_54		Obuasi	Ghana	3	E	6			agvampir002_field
+GH_55		Obuasi	Ghana	3	E	7			agvampir002_field
+GH_56		Obuasi	Ghana	3	E	8			agvampir002_field
+GH_57		Obuasi	Ghana	3	E	9			agvampir002_field
+GH_58		Obuasi	Ghana	3	E	10			agvampir002_field
+GH_59		Obuasi	Ghana	3	E	11			agvampir002_field
+GH_60		Obuasi	Ghana	3	E	12			agvampir002_field
+GH_61		Obuasi	Ghana	3	F	1			agvampir002_field
+GH_62		Obuasi	Ghana	3	F	2			agvampir002_field
+GH_63		Obuasi	Ghana	3	F	3			agvampir002_field
+GH_64		Obuasi	Ghana	3	F	4			agvampir002_field
+GH_65_low_vol		Obuasi	Ghana	3	F	5			agvampir002_field
+GH_66		Obuasi	Ghana	3	F	6			agvampir002_field
+GH_67		Obuasi	Ghana	3	F	7			agvampir002_field
+GH_68		Obuasi	Ghana	3	F	8			agvampir002_field
+GH_69		Obuasi	Ghana	3	F	9			agvampir002_field
+GH_70		Obuasi	Ghana	3	F	10			agvampir002_field
+GH_71		Obuasi	Ghana	3	F	11			agvampir002_field
+GH_72		Obuasi	Ghana	3	F	12			agvampir002_field
+GH_73		Obuasi	Ghana	3	G	1			agvampir002_field
+GH_74		Obuasi	Ghana	3	G	2			agvampir002_field
+GH_75		Obuasi	Ghana	3	G	3			agvampir002_field
+GH_76		Obuasi	Ghana	3	G	4			agvampir002_field
+GH_77		Obuasi	Ghana	3	G	5			agvampir002_field
+GH_78		Obuasi	Ghana	3	G	6			agvampir002_field
+GH_79		Obuasi	Ghana	3	G	7			agvampir002_field
+GH_80_low_vol		Obuasi	Ghana	3	G	8			agvampir002_field
+GH_81		Obuasi	Ghana	3	G	9			agvampir002_field
+GH_82		Obuasi	Ghana	3	G	10			agvampir002_field
+GH_83		Obuasi	Ghana	3	G	11			agvampir002_field
+GH_84		Obuasi	Ghana	3	G	12			agvampir002_field
+GH_85		Obuasi	Ghana	3	H	1			agvampir002_field
+GH_86		Obuasi	Ghana	3	H	2			agvampir002_field
+GH_87		Obuasi	Ghana	3	H	3			agvampir002_field
+GH_88		Obuasi	Ghana	3	H	4			agvampir002_field
+GH_89		Obuasi	Ghana	3	H	5			agvampir002_field
+GH_90		Obuasi	Ghana	3	H	6			agvampir002_field
+GH_91		Obuasi	Ghana	3	H	7			agvampir002_field
+GH_92		Obuasi	Ghana	3	H	8			agvampir002_field
+GH_93		Obuasi	Ghana	3	H	9			agvampir002_field
+GH_94		Obuasi	Ghana	3	H	10			agvampir002_field
+GH_95		Obuasi	Ghana	3	H	11			agvampir002_field
+GH_Negative		Obuasi	Ghana	3	H	12			agvampir002_field
+GM_01		Gambia_URR	Gambia	8	A	1			agvampir002_field
+GM_02		Gambia_URR	Gambia	8	A	2			agvampir002_field
+GM_03		Gambia_URR	Gambia	8	A	3			agvampir002_field
+GM_04		Gambia_URR	Gambia	8	A	4			agvampir002_field
+GM_05		Gambia_URR	Gambia	8	A	5			agvampir002_field
+GM_06		Gambia_URR	Gambia	8	A	6			agvampir002_field
+GM_07		Gambia_URR	Gambia	8	A	7			agvampir002_field
+GM_08		Gambia_URR	Gambia	8	A	8			agvampir002_field
+GM_09		Gambia_URR	Gambia	8	A	9			agvampir002_field
+GM_10		Gambia_URR	Gambia	8	A	10			agvampir002_field
+GM_11		Gambia_URR	Gambia	8	A	11			agvampir002_field
+GM_12		Gambia_URR	Gambia	8	A	12			agvampir002_field
+GM_13		Gambia_URR	Gambia	8	B	1			agvampir002_field
+GM_14		Gambia_URR	Gambia	8	B	2			agvampir002_field
+GM_15		Gambia_URR	Gambia	8	B	3			agvampir002_field
+GM_16		Gambia_URR	Gambia	8	B	4			agvampir002_field
+GM_17		Gambia_URR	Gambia	8	B	5			agvampir002_field
+GM_18		Gambia_URR	Gambia	8	B	6			agvampir002_field
+GM_19		Gambia_URR	Gambia	8	B	7			agvampir002_field
+GM_20		Gambia_URR	Gambia	8	B	8			agvampir002_field
+GM_21		Gambia_URR	Gambia	8	B	9			agvampir002_field
+GM_22		Gambia_URR	Gambia	8	B	10			agvampir002_field
+GM_23		Gambia_URR	Gambia	8	B	11			agvampir002_field
+GM_24		Gambia_URR	Gambia	8	B	12			agvampir002_field
+GM_25		Gambia_URR	Gambia	8	C	1			agvampir002_field
+GM_26		Gambia_URR	Gambia	8	C	2			agvampir002_field
+GM_27		Gambia_URR	Gambia	8	C	3			agvampir002_field
+GM_28		Gambia_URR	Gambia	8	C	4			agvampir002_field
+GM_29		Gambia_URR	Gambia	8	C	5			agvampir002_field
+GM_30		Gambia_URR	Gambia	8	C	6			agvampir002_field
+GM_31		Gambia_URR	Gambia	8	C	7			agvampir002_field
+GM_32		Gambia_URR	Gambia	8	C	8			agvampir002_field
+GM_33		Gambia_URR	Gambia	8	C	9			agvampir002_field
+GM_34		Gambia_URR	Gambia	8	C	10			agvampir002_field
+GM_35		Gambia_URR	Gambia	8	C	11			agvampir002_field
+GM_36		Gambia_URR	Gambia	8	C	12			agvampir002_field
+GM_37		Gambia_URR	Gambia	8	D	1			agvampir002_field
+GM_38		Gambia_URR	Gambia	8	D	2			agvampir002_field
+GM_39		Gambia_URR	Gambia	8	D	3			agvampir002_field
+GM_40		Gambia_URR	Gambia	8	D	4			agvampir002_field
+GM_41		Gambia_URR	Gambia	8	D	5			agvampir002_field
+GM_42		Gambia_URR	Gambia	8	D	6			agvampir002_field
+GM_43		Gambia_URR	Gambia	8	D	7			agvampir002_field
+GM_44		Gambia_URR	Gambia	8	D	8			agvampir002_field
+GM_45		Gambia_URR	Gambia	8	D	9			agvampir002_field
+GM_46		Gambia_URR	Gambia	8	D	10			agvampir002_field
+GM_47		Gambia_URR	Gambia	8	D	11			agvampir002_field
+GM_48		Gambia_URR	Gambia	8	D	12			agvampir002_field
+GM_49		Gambia_URR	Gambia	8	E	1			agvampir002_field
+GM_50		Gambia_URR	Gambia	8	E	2			agvampir002_field
+GM_51		Gambia_URR	Gambia	8	E	3			agvampir002_field
+GM_52		Gambia_URR	Gambia	8	E	4			agvampir002_field
+GM_53		Gambia_URR	Gambia	8	E	5			agvampir002_field
+GM_54		Gambia_URR	Gambia	8	E	6			agvampir002_field
+GM_55		Gambia_URR	Gambia	8	E	7			agvampir002_field
+GM_56		Gambia_URR	Gambia	8	E	8			agvampir002_field
+GM_57		Gambia_URR	Gambia	8	E	9			agvampir002_field
+GM_58		Gambia_URR	Gambia	8	E	10			agvampir002_field
+GM_59		Gambia_URR	Gambia	8	E	11			agvampir002_field
+GM_60		Gambia_URR	Gambia	8	E	12			agvampir002_field
+GM_61		Gambia_URR	Gambia	8	F	1			agvampir002_field
+GM_62		Gambia_URR	Gambia	8	F	2			agvampir002_field
+GM_63		Gambia_URR	Gambia	8	F	3			agvampir002_field
+GM_64		Gambia_URR	Gambia	8	F	4			agvampir002_field
+GM_65		Gambia_URR	Gambia	8	F	5			agvampir002_field
+GM_66		Gambia_URR	Gambia	8	F	6			agvampir002_field
+GM_67		Gambia_URR	Gambia	8	F	7			agvampir002_field
+GM_68		Gambia_URR	Gambia	8	F	8			agvampir002_field
+GM_69		Gambia_URR	Gambia	8	F	9			agvampir002_field
+GM_70		Gambia_URR	Gambia	8	F	10			agvampir002_field
+GM_71		Gambia_URR	Gambia	8	F	11			agvampir002_field
+GM_72		Gambia_URR	Gambia	8	F	12			agvampir002_field
+GM_73		Gambia_URR	Gambia	8	G	1			agvampir002_field
+GM_74		Gambia_URR	Gambia	8	G	2			agvampir002_field
+GM_75		Gambia_URR	Gambia	8	G	3			agvampir002_field
+GM_76		Gambia_URR	Gambia	8	G	4			agvampir002_field
+GM_77		Gambia_URR	Gambia	8	G	5			agvampir002_field
+GM_78		Gambia_URR	Gambia	8	G	6			agvampir002_field
+GM_79		Gambia_URR	Gambia	8	G	7			agvampir002_field
+GM_80		Gambia_URR	Gambia	8	G	8			agvampir002_field
+GM_81		Gambia_URR	Gambia	8	G	9			agvampir002_field
+GM_82		Gambia_URR	Gambia	8	G	10			agvampir002_field
+GM_83		Gambia_URR	Gambia	8	G	11			agvampir002_field
+GM_84		Gambia_URR	Gambia	8	G	12			agvampir002_field
+GM_85		Gambia_URR	Gambia	8	H	1			agvampir002_field
+GM_86		Gambia_URR	Gambia	8	H	2			agvampir002_field
+GM_87		Gambia_URR	Gambia	8	H	3			agvampir002_field
+GM_88		Gambia_URR	Gambia	8	H	4			agvampir002_field
+GM_89		Gambia_URR	Gambia	8	H	5			agvampir002_field
+GM_90		Gambia_URR	Gambia	8	H	6			agvampir002_field
+GM_91		Gambia_URR	Gambia	8	H	7			agvampir002_field
+GM_92		Gambia_URR	Gambia	8	H	8			agvampir002_field
+GM_93		Gambia_URR	Gambia	8	H	9			agvampir002_field
+GM_94		Gambia_URR	Gambia	8	H	10			agvampir002_field
+GM_95		Gambia_URR	Gambia	8	H	11			agvampir002_field
+GM_96		Gambia_URR	Gambia	8	H	12			agvampir002_field
+VK7_dead_01	coluzzii	VK7	Burkina Faso	10	A	1			agvampir002_field
+VK7_dead_02	coluzzii	VK7	Burkina Faso	10	A	2			agvampir002_field
+VK7_dead_03	coluzzii	VK7	Burkina Faso	10	A	3			agvampir002_field
+VK7_dead_04	coluzzii	VK7	Burkina Faso	10	A	4			agvampir002_field
+VK7_dead_05	coluzzii	VK7	Burkina Faso	10	A	5			agvampir002_field
+VK7_dead_06	coluzzii	VK7	Burkina Faso	10	A	6			agvampir002_field
+VK7_alive_01	coluzzii	VK7	Burkina Faso	10	A	7			agvampir002_field
+VK7_alive_02	coluzzii	VK7	Burkina Faso	10	A	8			agvampir002_field
+VK7_alive_03	coluzzii	VK7	Burkina Faso	10	A	9			agvampir002_field
+VK7_alive_04	coluzzii	VK7	Burkina Faso	10	A	10			agvampir002_field
+VK7_alive_05	coluzzii	VK7	Burkina Faso	10	A	11			agvampir002_field
+VK7_alive_06	coluzzii	VK7	Burkina Faso	10	A	12			agvampir002_field
+VK7_dead_07	coluzzii	VK7	Burkina Faso	10	B	1			agvampir002_field
+VK7_dead_08	coluzzii	VK7	Burkina Faso	10	B	2			agvampir002_field
+VK7_dead_09	coluzzii	VK7	Burkina Faso	10	B	3			agvampir002_field
+VK7_dead_10	coluzzii	VK7	Burkina Faso	10	B	4			agvampir002_field
+VK7_dead_11	coluzzii	VK7	Burkina Faso	10	B	5			agvampir002_field
+VK7_dead_12	coluzzii	VK7	Burkina Faso	10	B	6			agvampir002_field
+VK7_alive_07	coluzzii	VK7	Burkina Faso	10	B	7			agvampir002_field
+VK7_alive_08	coluzzii	VK7	Burkina Faso	10	B	8			agvampir002_field
+VK7_alive_09	coluzzii	VK7	Burkina Faso	10	B	9			agvampir002_field
+VK7_alive_10	coluzzii	VK7	Burkina Faso	10	B	10			agvampir002_field
+VK7_alive_11	coluzzii	VK7	Burkina Faso	10	B	11			agvampir002_field
+VK7_alive_12	coluzzii	VK7	Burkina Faso	10	B	12			agvampir002_field
+VK7_dead_13	coluzzii	VK7	Burkina Faso	10	C	1			agvampir002_field
+VK7_dead_14	coluzzii	VK7	Burkina Faso	10	C	2			agvampir002_field
+VK7_dead_15	coluzzii	VK7	Burkina Faso	10	C	3			agvampir002_field
+VK7_dead_16	coluzzii	VK7	Burkina Faso	10	C	4			agvampir002_field
+VK7_dead_17	coluzzii	VK7	Burkina Faso	10	C	5			agvampir002_field
+VK7_dead_04_dil	coluzzii	VK7	Burkina Faso	10	C	6			agvampir002_field
+VK7_alive_13	coluzzii	VK7	Burkina Faso	10	C	7			agvampir002_field
+VK7_alive_14	coluzzii	VK7	Burkina Faso	10	C	8			agvampir002_field
+VK7_alive_15	coluzzii	VK7	Burkina Faso	10	C	9			agvampir002_field
+VK7_alive_16	coluzzii	VK7	Burkina Faso	10	C	10			agvampir002_field
+VK7_alive_17	coluzzii	VK7	Burkina Faso	10	C	11			agvampir002_field
+VK7_alive_18	coluzzii	VK7	Burkina Faso	10	C	12			agvampir002_field
+VK7_dead_18	coluzzii	VK7	Burkina Faso	10	D	1			agvampir002_field
+VK7_dead_19	coluzzii	VK7	Burkina Faso	10	D	2			agvampir002_field
+VK7_dead_20	coluzzii	VK7	Burkina Faso	10	D	3			agvampir002_field
+VK7_dead_21	coluzzii	VK7	Burkina Faso	10	D	4			agvampir002_field
+VK7_dead_22	coluzzii	VK7	Burkina Faso	10	D	5			agvampir002_field
+VK7_dead_10_dil	coluzzii	VK7	Burkina Faso	10	D	6			agvampir002_field
+VK7_alive_19	coluzzii	VK7	Burkina Faso	10	D	7			agvampir002_field
+VK7_alive_20	coluzzii	VK7	Burkina Faso	10	D	8			agvampir002_field
+VK7_alive_21	coluzzii	VK7	Burkina Faso	10	D	9			agvampir002_field
+VK7_alive_22	coluzzii	VK7	Burkina Faso	10	D	10			agvampir002_field
+VK7_alive_23	coluzzii	VK7	Burkina Faso	10	D	11			agvampir002_field
+VK7_alive_24	coluzzii	VK7	Burkina Faso	10	D	12			agvampir002_field
+VK7_dead_23	coluzzii	VK7	Burkina Faso	10	E	1			agvampir002_field
+VK7_dead_24	coluzzii	VK7	Burkina Faso	10	E	2			agvampir002_field
+VK7_dead_25	coluzzii	VK7	Burkina Faso	10	E	3			agvampir002_field
+VK7_dead_26	coluzzii	VK7	Burkina Faso	10	E	4			agvampir002_field
+VK7_dead_27	coluzzii	VK7	Burkina Faso	10	E	5			agvampir002_field
+VK7_dead_16_dil	coluzzii	VK7	Burkina Faso	10	E	6			agvampir002_field
+VK7_alive_25	coluzzii	VK7	Burkina Faso	10	E	7			agvampir002_field
+VK7_alive_26	coluzzii	VK7	Burkina Faso	10	E	8			agvampir002_field
+VK7_alive_27	coluzzii	VK7	Burkina Faso	10	E	9			agvampir002_field
+VK7_alive_28	coluzzii	VK7	Burkina Faso	10	E	10			agvampir002_field
+VK7_alive_29	coluzzii	VK7	Burkina Faso	10	E	11			agvampir002_field
+VK7_alive_30	coluzzii	VK7	Burkina Faso	10	E	12			agvampir002_field
+VK7_dead_28	coluzzii	VK7	Burkina Faso	10	F	1			agvampir002_field
+VK7_dead_29	coluzzii	VK7	Burkina Faso	10	F	2			agvampir002_field
+VK7_dead_30	coluzzii	VK7	Burkina Faso	10	F	3			agvampir002_field
+VK7_dead_31	coluzzii	VK7	Burkina Faso	10	F	4			agvampir002_field
+VK7_dead_32	coluzzii	VK7	Burkina Faso	10	F	5			agvampir002_field
+VK7_dead_22_dil	coluzzii	VK7	Burkina Faso	10	F	6			agvampir002_field
+VK7_alive_31	coluzzii	VK7	Burkina Faso	10	F	7			agvampir002_field
+VK7_alive_32	coluzzii	VK7	Burkina Faso	10	F	8			agvampir002_field
+VK7_alive_33	coluzzii	VK7	Burkina Faso	10	F	9			agvampir002_field
+VK7_alive_34	coluzzii	VK7	Burkina Faso	10	F	10			agvampir002_field
+VK7_alive_35	coluzzii	VK7	Burkina Faso	10	F	11			agvampir002_field
+VK7_alive_36	coluzzii	VK7	Burkina Faso	10	F	12			agvampir002_field
+VK7_dead_33	coluzzii	VK7	Burkina Faso	10	G	1			agvampir002_field
+VK7_dead_34	coluzzii	VK7	Burkina Faso	10	G	2			agvampir002_field
+VK7_dead_35	coluzzii	VK7	Burkina Faso	10	G	3			agvampir002_field
+VK7_dead_36	coluzzii	VK7	Burkina Faso	10	G	4			agvampir002_field
+VK7_dead_37	coluzzii	VK7	Burkina Faso	10	G	5			agvampir002_field
+VK7_dead_28_dil	coluzzii	VK7	Burkina Faso	10	G	6			agvampir002_field
+VK7_alive_37	coluzzii	VK7	Burkina Faso	10	G	7			agvampir002_field
+VK7_alive_38	coluzzii	VK7	Burkina Faso	10	G	8			agvampir002_field
+VK7_alive_39	coluzzii	VK7	Burkina Faso	10	G	9			agvampir002_field
+VK7_alive_40	coluzzii	VK7	Burkina Faso	10	G	10			agvampir002_field
+VK7_alive_41	coluzzii	VK7	Burkina Faso	10	G	11			agvampir002_field
+VK7_alive_42	coluzzii	VK7	Burkina Faso	10	G	12			agvampir002_field
+VK7_dead_38	coluzzii	VK7	Burkina Faso	10	H	1			agvampir002_field
+VK7_dead_39	coluzzii	VK7	Burkina Faso	10	H	2			agvampir002_field
+VK7_dead_40	coluzzii	VK7	Burkina Faso	10	H	3			agvampir002_field
+VK7_dead_41	coluzzii	VK7	Burkina Faso	10	H	4			agvampir002_field
+VK7_dead_42	coluzzii	VK7	Burkina Faso	10	H	5			agvampir002_field
+VK7_dead_34_dil	coluzzii	VK7	Burkina Faso	10	H	6			agvampir002_field
+VK7_alive_43	coluzzii	VK7	Burkina Faso	10	H	7			agvampir002_field
+VK7_alive_44	coluzzii	VK7	Burkina Faso	10	H	8			agvampir002_field
+VK7_alive_45	coluzzii	VK7	Burkina Faso	10	H	9			agvampir002_field
+VK7_alive_46	coluzzii	VK7	Burkina Faso	10	H	10			agvampir002_field
+VK7_alive_47	coluzzii	VK7	Burkina Faso	10	H	11			agvampir002_field
+VK7_Negative		VK7	Burkina Faso	10	H	12			agvampir002_field
+Siaya_Delta_Dead_01	gambiae	Siaya	Kenya	12	A	1			agvampir002_field
+Siaya_Delta_Dead_02	gambiae	Siaya	Kenya	12	A	2			agvampir002_field
+Siaya_Delta_Dead_03	gambiae	Siaya	Kenya	12	A	3			agvampir002_field
+Siaya_Delta_Dead_04	gambiae	Siaya	Kenya	12	A	4			agvampir002_field
+Siaya_Delta_Dead_05	gambiae	Siaya	Kenya	12	A	5			agvampir002_field
+Siaya_Delta_Dead_06	gambiae	Siaya	Kenya	12	A	6			agvampir002_field
+Siaya_Delta_Dead_07	gambiae	Siaya	Kenya	12	A	7			agvampir002_field
+Siaya_Delta_Dead_08	gambiae	Siaya	Kenya	12	A	8			agvampir002_field
+Siaya_Delta_Dead_09	gambiae	Siaya	Kenya	12	A	9			agvampir002_field
+Siaya_Delta_Dead_10	gambiae	Siaya	Kenya	12	A	10			agvampir002_field
+Siaya_Delta_Dead_11	gambiae	Siaya	Kenya	12	A	11			agvampir002_field
+Siaya_Delta_Dead_12	gambiae	Siaya	Kenya	12	A	12			agvampir002_field
+Siaya_Delta_Dead_13	gambiae	Siaya	Kenya	12	B	1			agvampir002_field
+Siaya_Delta_Dead_14	gambiae	Siaya	Kenya	12	B	2			agvampir002_field
+Siaya_Delta_Dead_15	gambiae	Siaya	Kenya	12	B	3			agvampir002_field
+Siaya_Delta_Dead_16	gambiae	Siaya	Kenya	12	B	4			agvampir002_field
+Siaya_Delta_Dead_17	gambiae	Siaya	Kenya	12	B	5			agvampir002_field
+Siaya_Delta_Dead_18	gambiae	Siaya	Kenya	12	B	6			agvampir002_field
+Siaya_Delta_Dead_19	uncertain	Siaya	Kenya	12	B	7			agvampir002_field
+Siaya_Delta_Dead_20	gambiae	Siaya	Kenya	12	B	8			agvampir002_field
+Siaya_Delta_Dead_21	gambiae	Siaya	Kenya	12	B	9			agvampir002_field
+Siaya_Delta_Dead_22	gambiae	Siaya	Kenya	12	B	10			agvampir002_field
+Siaya_Delta_Dead_23	gambiae	Siaya	Kenya	12	B	11			agvampir002_field
+Siaya_Delta_Dead_24	gambiae	Siaya	Kenya	12	B	12			agvampir002_field
+Siaya_Delta_Dead_25	gambiae	Siaya	Kenya	12	C	1			agvampir002_field
+Siaya_Delta_Dead_26	gambiae	Siaya	Kenya	12	C	2			agvampir002_field
+Siaya_Delta_Dead_27	gambiae	Siaya	Kenya	12	C	3			agvampir002_field
+Siaya_Delta_Dead_28	gambiae	Siaya	Kenya	12	C	4			agvampir002_field
+Siaya_Delta_Dead_29	gambiae	Siaya	Kenya	12	C	5			agvampir002_field
+Siaya_Delta_Dead_30	gambiae	Siaya	Kenya	12	C	6			agvampir002_field
+Siaya_Delta_Dead_31	gambiae	Siaya	Kenya	12	C	7			agvampir002_field
+Siaya_Delta_Dead_32	gambiae	Siaya	Kenya	12	C	8			agvampir002_field
+Siaya_Delta_Dead_33	gambiae	Siaya	Kenya	12	C	9			agvampir002_field
+Siaya_Delta_Dead_34	gambiae	Siaya	Kenya	12	C	10			agvampir002_field
+Siaya_Delta_Dead_35	gambiae	Siaya	Kenya	12	C	11			agvampir002_field
+Siaya_Delta_Dead_36	gambiae	Siaya	Kenya	12	C	12			agvampir002_field
+Siaya_Delta_Dead_37	gambiae	Siaya	Kenya	12	D	1			agvampir002_field
+Siaya_Delta_Dead_38	gambiae	Siaya	Kenya	12	D	2			agvampir002_field
+Siaya_Delta_Dead_39	gambiae	Siaya	Kenya	12	D	3			agvampir002_field
+Siaya_Delta_Dead_40	gambiae	Siaya	Kenya	12	D	4			agvampir002_field
+Siaya_Delta_Dead_41	gambiae	Siaya	Kenya	12	D	5			agvampir002_field
+Siaya_Delta_Dead_42	gambiae	Siaya	Kenya	12	D	6			agvampir002_field
+Siaya_Delta_Dead_43	gambiae	Siaya	Kenya	12	D	7			agvampir002_field
+Siaya_Delta_Dead_44	gambiae	Siaya	Kenya	12	D	8			agvampir002_field
+Siaya_Delta_Dead_45	gambiae	Siaya	Kenya	12	D	9			agvampir002_field
+Siaya_Delta_Dead_46	gambiae	Siaya	Kenya	12	D	10			agvampir002_field
+Siaya_Delta_Dead_47	gambiae	Siaya	Kenya	12	D	11			agvampir002_field
+Siaya_Delta_Dead_48	gambiae	Siaya	Kenya	12	D	12			agvampir002_field
+Siaya_Delta_Dead_49	gambiae	Siaya	Kenya	12	E	1			agvampir002_field
+Siaya_Delta_Dead_50	gambiae	Siaya	Kenya	12	E	2			agvampir002_field
+Siaya_Delta_Dead_51	gambiae	Siaya	Kenya	12	E	3			agvampir002_field
+Siaya_Delta_Dead_52	gambiae	Siaya	Kenya	12	E	4			agvampir002_field
+Siaya_Delta_Dead_53	gambiae	Siaya	Kenya	12	E	5			agvampir002_field
+Siaya_Delta_Dead_54	gambiae	Siaya	Kenya	12	E	6			agvampir002_field
+Siaya_Delta_Dead_55	gambiae	Siaya	Kenya	12	E	7			agvampir002_field
+Siaya_Delta_Dead_56	gambiae	Siaya	Kenya	12	E	8			agvampir002_field
+Siaya_Delta_Dead_57	gambiae	Siaya	Kenya	12	E	9			agvampir002_field
+Siaya_Delta_Dead_58	gambiae	Siaya	Kenya	12	E	10			agvampir002_field
+Siaya_Delta_Dead_59	gambiae	Siaya	Kenya	12	E	11			agvampir002_field
+Siaya_Delta_Dead_60	gambiae	Siaya	Kenya	12	E	12			agvampir002_field
+Siaya_Delta_Dead_61	gambiae	Siaya	Kenya	12	F	1			agvampir002_field
+Siaya_Delta_Dead_62	gambiae	Siaya	Kenya	12	F	2			agvampir002_field
+Siaya_Delta_Dead_63	gambiae	Siaya	Kenya	12	F	3			agvampir002_field
+Siaya_Delta_Dead_64	gambiae	Siaya	Kenya	12	F	4			agvampir002_field
+Siaya_Delta_Dead_65	gambiae	Siaya	Kenya	12	F	5			agvampir002_field
+Siaya_Delta_Dead_66	gambiae	Siaya	Kenya	12	F	6			agvampir002_field
+Siaya_Delta_Dead_67	gambiae	Siaya	Kenya	12	F	7			agvampir002_field
+Siaya_Delta_Dead_68	gambiae	Siaya	Kenya	12	F	8			agvampir002_field
+Siaya_Delta_Dead_69	gambiae	Siaya	Kenya	12	F	9			agvampir002_field
+Siaya_Delta_Dead_70	gambiae	Siaya	Kenya	12	F	10			agvampir002_field
+Siaya_Delta_Dead_71	gambiae	Siaya	Kenya	12	F	11			agvampir002_field
+Siaya_Delta_Dead_72	gambiae	Siaya	Kenya	12	F	12			agvampir002_field
+Siaya_Delta_Dead_73	gambiae	Siaya	Kenya	12	G	1			agvampir002_field
+Siaya_Delta_Dead_74	gambiae	Siaya	Kenya	12	G	2			agvampir002_field
+Siaya_Delta_Dead_75	gambiae	Siaya	Kenya	12	G	3			agvampir002_field
+Siaya_Delta_Dead_76	gambiae	Siaya	Kenya	12	G	4			agvampir002_field
+Siaya_Delta_Dead_77	gambiae	Siaya	Kenya	12	G	5			agvampir002_field
+Siaya_Delta_Dead_78	gambiae	Siaya	Kenya	12	G	6			agvampir002_field
+Siaya_Delta_Dead_79	gambiae	Siaya	Kenya	12	G	7			agvampir002_field
+Siaya_Delta_Dead_80	gambiae	Siaya	Kenya	12	G	8			agvampir002_field
+Siaya_Delta_Dead_81	gambiae	Siaya	Kenya	12	G	9			agvampir002_field
+Siaya_Delta_Dead_82	gambiae	Siaya	Kenya	12	G	10			agvampir002_field
+Siaya_Delta_Dead_83	gambiae	Siaya	Kenya	12	G	11			agvampir002_field
+Siaya_Delta_Dead_84	gambiae	Siaya	Kenya	12	G	12			agvampir002_field
+Siaya_Delta_Dead_85	gambiae	Siaya	Kenya	12	H	1			agvampir002_field
+Siaya_Delta_Dead_86	gambiae	Siaya	Kenya	12	H	2			agvampir002_field
+Siaya_Delta_Dead_87	gambiae	Siaya	Kenya	12	H	3			agvampir002_field
+Siaya_Delta_Dead_88	gambiae	Siaya	Kenya	12	H	4			agvampir002_field
+Siaya_Delta_Dead_89	gambiae	Siaya	Kenya	12	H	5			agvampir002_field
+Siaya_Delta_Dead_90	gambiae	Siaya	Kenya	12	H	6			agvampir002_field
+Siaya_Delta_Dead_91	gambiae	Siaya	Kenya	12	H	7			agvampir002_field
+Siaya_Delta_Dead_92	gambiae	Siaya	Kenya	12	H	8			agvampir002_field
+Siaya_Delta_Dead_93	gambiae	Siaya	Kenya	12	H	9			agvampir002_field
+Siaya_Delta_Dead_94	gambiae	Siaya	Kenya	12	H	10			agvampir002_field
+Siaya_Delta_Dead_95	gambiae	Siaya	Kenya	12	H	11			agvampir002_field
+Siaya_Delta_Dead_Negative		Siaya	Kenya	12	H	12			agvampir002_field
+Siaya_Delta_Alive_01	gambiae	Siaya	Kenya	15	A	1			agvampir002_field
+Siaya_Delta_Alive_02	gambiae	Siaya	Kenya	15	A	2			agvampir002_field
+Siaya_Delta_Alive_03	gambiae	Siaya	Kenya	15	A	3			agvampir002_field
+Siaya_Delta_Alive_04	gambiae	Siaya	Kenya	15	A	4			agvampir002_field
+Siaya_Delta_Alive_05	gambiae	Siaya	Kenya	15	A	5			agvampir002_field
+Siaya_Delta_Alive_06	gambiae	Siaya	Kenya	15	A	6			agvampir002_field
+Siaya_Delta_Alive_07	gambiae	Siaya	Kenya	15	A	7			agvampir002_field
+Siaya_Delta_Alive_08	gambiae	Siaya	Kenya	15	A	8			agvampir002_field
+Siaya_Delta_Alive_09	gambiae	Siaya	Kenya	15	A	9			agvampir002_field
+Siaya_Delta_Alive_10	gambiae	Siaya	Kenya	15	A	10			agvampir002_field
+Siaya_Delta_Alive_11	gambiae	Siaya	Kenya	15	A	11			agvampir002_field
+Siaya_Delta_Alive_12	gambiae	Siaya	Kenya	15	A	12			agvampir002_field
+Siaya_Delta_Alive_13	gambiae	Siaya	Kenya	15	B	1			agvampir002_field
+Siaya_Delta_Alive_14	gambiae	Siaya	Kenya	15	B	2			agvampir002_field
+Siaya_Delta_Alive_15	gambiae	Siaya	Kenya	15	B	3			agvampir002_field
+Siaya_Delta_Alive_16	gambiae	Siaya	Kenya	15	B	4			agvampir002_field
+Siaya_Delta_Alive_17	gambiae	Siaya	Kenya	15	B	5			agvampir002_field
+Siaya_Delta_Alive_18	gambiae	Siaya	Kenya	15	B	6			agvampir002_field
+Siaya_Delta_Alive_19	gambiae	Siaya	Kenya	15	B	7			agvampir002_field
+Siaya_Delta_Alive_20	gambiae	Siaya	Kenya	15	B	8			agvampir002_field
+Siaya_Delta_Alive_21	gambiae	Siaya	Kenya	15	B	9			agvampir002_field
+Siaya_Delta_Alive_22	gambiae	Siaya	Kenya	15	B	10			agvampir002_field
+Siaya_Delta_Alive_23	gambiae	Siaya	Kenya	15	B	11			agvampir002_field
+Siaya_Delta_Alive_24	gambiae	Siaya	Kenya	15	B	12			agvampir002_field
+Siaya_Delta_Alive_25	gambiae	Siaya	Kenya	15	C	1			agvampir002_field
+Siaya_Delta_Alive_26	gambiae	Siaya	Kenya	15	C	2			agvampir002_field
+Siaya_Delta_Alive_27	gambiae	Siaya	Kenya	15	C	3			agvampir002_field
+Siaya_Delta_Alive_28	gambiae	Siaya	Kenya	15	C	4			agvampir002_field
+Siaya_Delta_Alive_29	gambiae	Siaya	Kenya	15	C	5			agvampir002_field
+Siaya_Delta_Alive_30	gambiae	Siaya	Kenya	15	C	6			agvampir002_field
+Siaya_Delta_Alive_31	gambiae	Siaya	Kenya	15	C	7			agvampir002_field
+Siaya_Delta_Alive_32	gambiae	Siaya	Kenya	15	C	8			agvampir002_field
+Siaya_Delta_Alive_33	gambiae	Siaya	Kenya	15	C	9			agvampir002_field
+Siaya_Delta_Alive_34	gambiae	Siaya	Kenya	15	C	10			agvampir002_field
+Siaya_Delta_Alive_35	gambiae	Siaya	Kenya	15	C	11			agvampir002_field
+Siaya_Delta_Alive_36	gambiae	Siaya	Kenya	15	C	12			agvampir002_field
+Siaya_Delta_Alive_37	gambiae	Siaya	Kenya	15	D	1			agvampir002_field
+Siaya_Delta_Alive_38	gambiae	Siaya	Kenya	15	D	2			agvampir002_field
+Siaya_Delta_Alive_39	gambiae	Siaya	Kenya	15	D	3			agvampir002_field
+Siaya_Delta_Alive_40	gambiae	Siaya	Kenya	15	D	4			agvampir002_field
+Siaya_Delta_Alive_41	gambiae	Siaya	Kenya	15	D	5			agvampir002_field
+Siaya_Delta_Alive_42	gambiae	Siaya	Kenya	15	D	6			agvampir002_field
+Siaya_Delta_Alive_43	gambiae	Siaya	Kenya	15	D	7			agvampir002_field
+Siaya_Delta_Alive_44	gambiae	Siaya	Kenya	15	D	8			agvampir002_field
+Siaya_Delta_Alive_45	gambiae	Siaya	Kenya	15	D	9			agvampir002_field
+Siaya_Delta_Alive_46	gambiae	Siaya	Kenya	15	D	10			agvampir002_field
+Siaya_Delta_Alive_47	gambiae	Siaya	Kenya	15	D	11			agvampir002_field
+Siaya_Delta_Alive_48	gambiae	Siaya	Kenya	15	D	12			agvampir002_field
+Siaya_Delta_Alive_49	gambiae	Siaya	Kenya	15	E	1			agvampir002_field
+Siaya_Delta_Alive_50	gambiae	Siaya	Kenya	15	E	2			agvampir002_field
+Siaya_Delta_Alive_51	gambiae	Siaya	Kenya	15	E	3			agvampir002_field
+Siaya_Delta_Alive_52	gambiae	Siaya	Kenya	15	E	4			agvampir002_field
+Siaya_Delta_Alive_53	gambiae	Siaya	Kenya	15	E	5			agvampir002_field
+Siaya_Delta_Alive_54	gambiae	Siaya	Kenya	15	E	6			agvampir002_field
+Siaya_Delta_Alive_55	gambiae	Siaya	Kenya	15	E	7			agvampir002_field
+Siaya_Delta_Alive_56	gambiae	Siaya	Kenya	15	E	8			agvampir002_field
+Siaya_Delta_Alive_57	gambiae	Siaya	Kenya	15	E	9			agvampir002_field
+Siaya_Delta_Alive_58	gambiae	Siaya	Kenya	15	E	10			agvampir002_field
+Siaya_Delta_Alive_59	gambiae	Siaya	Kenya	15	E	11			agvampir002_field
+Siaya_Delta_Alive_60	gambiae	Siaya	Kenya	15	E	12			agvampir002_field
+Siaya_Delta_Alive_61	gambiae	Siaya	Kenya	15	F	1			agvampir002_field
+Siaya_Delta_Alive_62	gambiae	Siaya	Kenya	15	F	2			agvampir002_field
+Siaya_Delta_Alive_63	gambiae	Siaya	Kenya	15	F	3			agvampir002_field
+Siaya_Delta_Alive_64	gambiae	Siaya	Kenya	15	F	4			agvampir002_field
+Siaya_Delta_Alive_65	gambiae	Siaya	Kenya	15	F	5			agvampir002_field
+Siaya_Delta_Alive_66	gambiae	Siaya	Kenya	15	F	6			agvampir002_field
+Siaya_Delta_Alive_67	gambiae	Siaya	Kenya	15	F	7			agvampir002_field
+Siaya_Delta_Alive_68	gambiae	Siaya	Kenya	15	F	8			agvampir002_field
+Siaya_Delta_Alive_69	gambiae	Siaya	Kenya	15	F	9			agvampir002_field
+Siaya_Delta_Alive_70	gambiae	Siaya	Kenya	15	F	10			agvampir002_field
+Siaya_Delta_Alive_71	gambiae	Siaya	Kenya	15	F	11			agvampir002_field
+Siaya_Delta_Alive_72	gambiae	Siaya	Kenya	15	F	12			agvampir002_field
+Siaya_Delta_Alive_73	gambiae	Siaya	Kenya	15	G	1			agvampir002_field
+Siaya_Delta_Alive_74	gambiae	Siaya	Kenya	15	G	2			agvampir002_field
+Siaya_Delta_Alive_75	gambiae	Siaya	Kenya	15	G	3			agvampir002_field
+Siaya_Delta_Alive_76	gambiae	Siaya	Kenya	15	G	4			agvampir002_field
+Siaya_Delta_Alive_77	gambiae	Siaya	Kenya	15	G	5			agvampir002_field
+Siaya_Delta_Alive_78	gambiae	Siaya	Kenya	15	G	6			agvampir002_field
+Siaya_Delta_Alive_79	gambiae	Siaya	Kenya	15	G	7			agvampir002_field
+Siaya_Delta_Alive_80	gambiae	Siaya	Kenya	15	G	8			agvampir002_field
+Siaya_Delta_Alive_81	gambiae	Siaya	Kenya	15	G	9			agvampir002_field
+Siaya_Delta_Alive_82	gambiae	Siaya	Kenya	15	G	10			agvampir002_field
+Siaya_Delta_Alive_83	gambiae	Siaya	Kenya	15	G	11			agvampir002_field
+Siaya_Delta_Alive_84	gambiae	Siaya	Kenya	15	G	12			agvampir002_field
+Siaya_Delta_Alive_85	gambiae	Siaya	Kenya	15	H	1			agvampir002_field
+Siaya_Delta_Alive_86	gambiae	Siaya	Kenya	15	H	2			agvampir002_field
+Siaya_Delta_Alive_87	gambiae	Siaya	Kenya	15	H	3			agvampir002_field
+Siaya_Delta_Alive_88	gambiae	Siaya	Kenya	15	H	4			agvampir002_field
+Siaya_Delta_Alive_89	gambiae	Siaya	Kenya	15	H	5			agvampir002_field
+Siaya_Delta_Alive_90	gambiae	Siaya	Kenya	15	H	6			agvampir002_field
+Siaya_Delta_Alive_91	gambiae	Siaya	Kenya	15	H	7			agvampir002_field
+Siaya_Delta_Alive_92	gambiae	Siaya	Kenya	15	H	8			agvampir002_field
+Siaya_Delta_Alive_93	gambiae	Siaya	Kenya	15	H	9			agvampir002_field
+Siaya_Delta_Alive_94	gambiae	Siaya	Kenya	15	H	10			agvampir002_field
+Siaya_Delta_Alive_95	gambiae	Siaya	Kenya	15	H	11			agvampir002_field
+Siaya_Delta_Alive_Negative		Siaya	Kenya	15	H	12			agvampir002_field
+Siaya_Delta_Dead_96	gambiae	Siaya	Kenya	7	A	1			agvampir002_field
+Siaya_Delta_Dead_97	gambiae	Siaya	Kenya	7	A	2			agvampir002_field
+Siaya_Delta_Dead_98	gambiae	Siaya	Kenya	7	A	3			agvampir002_field
+Siaya_Delta_Dead_99	gambiae	Siaya	Kenya	7	A	4			agvampir002_field
+Siaya_Delta_Dead_100	gambiae	Siaya	Kenya	7	A	5			agvampir002_field
+Siaya_Delta_Alive_96	gambiae	Siaya	Kenya	7	A	6			agvampir002_field
+Siaya_Delta_Alive_97	gambiae	Siaya	Kenya	7	A	7			agvampir002_field
+Siaya_Delta_Alive_98	gambiae	Siaya	Kenya	7	A	8			agvampir002_field
+Siaya_Delta_Alive_99	gambiae	Siaya	Kenya	7	A	9			agvampir002_field
+Siaya_Delta_Dead_101	gambiae	Siaya	Kenya	7	B	1			agvampir002_field
+Siaya_Delta_Dead_102	gambiae	Siaya	Kenya	7	B	2			agvampir002_field
+Siaya_Delta_Dead_103	gambiae	Siaya	Kenya	7	B	3			agvampir002_field
+Siaya_Delta_Dead_104	gambiae	Siaya	Kenya	7	B	4			agvampir002_field
+Siaya_Delta_Dead_105	gambiae	Siaya	Kenya	7	B	5			agvampir002_field
+Siaya_Delta_Alive_100	gambiae	Siaya	Kenya	7	B	6			agvampir002_field
+Siaya_Delta_Alive_101	gambiae	Siaya	Kenya	7	B	7			agvampir002_field
+Siaya_Delta_Alive_102	gambiae	Siaya	Kenya	7	B	8			agvampir002_field
+Siaya_Delta_Alive_103	gambiae	Siaya	Kenya	7	B	9			agvampir002_field
+Siaya_Delta_Dead_106	gambiae	Siaya	Kenya	7	C	1			agvampir002_field
+Siaya_Delta_Dead_107	gambiae	Siaya	Kenya	7	C	2			agvampir002_field
+Siaya_Delta_Dead_108	gambiae	Siaya	Kenya	7	C	3			agvampir002_field
+Siaya_Delta_Dead_109	gambiae	Siaya	Kenya	7	C	4			agvampir002_field
+Siaya_Delta_Dead_110	gambiae	Siaya	Kenya	7	C	5			agvampir002_field
+Siaya_Delta_Alive_104	gambiae	Siaya	Kenya	7	C	6			agvampir002_field
+Siaya_Delta_Alive_105	gambiae	Siaya	Kenya	7	C	7			agvampir002_field
+Siaya_Delta_Alive_106	gambiae	Siaya	Kenya	7	C	8			agvampir002_field
+Siaya_Delta_Alive_107	gambiae	Siaya	Kenya	7	C	9			agvampir002_field
+Siaya_Delta_Dead_111	gambiae	Siaya	Kenya	7	D	1			agvampir002_field
+Siaya_Delta_Dead_112	gambiae	Siaya	Kenya	7	D	2			agvampir002_field
+Siaya_Delta_Dead_113	gambiae	Siaya	Kenya	7	D	3			agvampir002_field
+Siaya_Delta_Dead_114	gambiae	Siaya	Kenya	7	D	4			agvampir002_field
+Siaya_Delta_Dead_115	gambiae	Siaya	Kenya	7	D	5			agvampir002_field
+Siaya_Delta_Alive_108	gambiae	Siaya	Kenya	7	D	6			agvampir002_field
+Siaya_Delta_Alive_109	gambiae	Siaya	Kenya	7	D	7			agvampir002_field
+Siaya_Delta_Alive_110	gambiae	Siaya	Kenya	7	D	8			agvampir002_field
+Siaya_Delta_Alive_111	gambiae	Siaya	Kenya	7	D	9			agvampir002_field
+Siaya_Delta_Dead_116	gambiae	Siaya	Kenya	7	E	1			agvampir002_field
+Siaya_Delta_Dead_117	gambiae	Siaya	Kenya	7	E	2			agvampir002_field
+Siaya_Delta_Dead_118	gambiae	Siaya	Kenya	7	E	3			agvampir002_field
+Siaya_Delta_Dead_119	gambiae	Siaya	Kenya	7	E	4			agvampir002_field
+Siaya_Delta_Alive_112	gambiae	Siaya	Kenya	7	E	5			agvampir002_field
+Siaya_Delta_Alive_113	gambiae	Siaya	Kenya	7	E	6			agvampir002_field
+Siaya_Delta_Alive_114	gambiae	Siaya	Kenya	7	E	7			agvampir002_field
+Siaya_Delta_Alive_115	gambiae	Siaya	Kenya	7	E	8			agvampir002_field
+Siaya_Delta_Alive_116	gambiae	Siaya	Kenya	7	E	9			agvampir002_field
+Siaya_Delta_Dead_120	gambiae	Siaya	Kenya	7	F	1			agvampir002_field
+Siaya_Delta_Dead_121	gambiae	Siaya	Kenya	7	F	2			agvampir002_field
+Siaya_Delta_Dead_122	gambiae	Siaya	Kenya	7	F	3			agvampir002_field
+Siaya_Delta_Dead_123	gambiae	Siaya	Kenya	7	F	4			agvampir002_field
+Siaya_Delta_Alive_117	gambiae	Siaya	Kenya	7	F	5			agvampir002_field
+Siaya_Delta_Alive_118	gambiae	Siaya	Kenya	7	F	6			agvampir002_field
+Siaya_Delta_Alive_119	gambiae	Siaya	Kenya	7	F	7			agvampir002_field
+Siaya_Delta_Alive_120	gambiae	Siaya	Kenya	7	F	8			agvampir002_field
+Siaya_Delta_Alive_121	gambiae	Siaya	Kenya	7	F	9			agvampir002_field
+Siaya_Delta_Dead_124	gambiae	Siaya	Kenya	7	G	1			agvampir002_field
+Siaya_Delta_Dead_125	gambiae	Siaya	Kenya	7	G	2			agvampir002_field
+Siaya_Delta_Dead_126	gambiae	Siaya	Kenya	7	G	3			agvampir002_field
+Siaya_Delta_Dead_127	gambiae	Siaya	Kenya	7	G	4			agvampir002_field
+Siaya_Delta_Alive_122	gambiae	Siaya	Kenya	7	G	5			agvampir002_field
+Siaya_Delta_Alive_123	gambiae	Siaya	Kenya	7	G	6			agvampir002_field
+Siaya_Delta_Alive_124	gambiae	Siaya	Kenya	7	G	7			agvampir002_field
+Siaya_Delta_Alive_125	gambiae	Siaya	Kenya	7	G	8			agvampir002_field
+Siaya_Delta_Alive_126	gambiae	Siaya	Kenya	7	G	9			agvampir002_field
+Siaya_Delta_Dead_128	gambiae	Siaya	Kenya	7	H	1			agvampir002_field
+Siaya_Delta_Dead_129	gambiae	Siaya	Kenya	7	H	2			agvampir002_field
+Siaya_Delta_Dead_130	gambiae	Siaya	Kenya	7	H	3			agvampir002_field
+Siaya_Delta_Dead_131	gambiae	Siaya	Kenya	7	H	4			agvampir002_field
+Siaya_Delta_Alive_127	gambiae	Siaya	Kenya	7	H	5			agvampir002_field
+Siaya_Delta_Alive_128	gambiae	Siaya	Kenya	7	H	6			agvampir002_field
+Siaya_Delta_Alive_129	gambiae	Siaya	Kenya	7	H	7			agvampir002_field
+Siaya_Delta_Alive_130	gambiae	Siaya	Kenya	7	H	8			agvampir002_field
+Siaya_Delta_Alive_131	gambiae	Siaya	Kenya	7	H	9			agvampir002_field
+G1		Gaoua	Burkina Faso	4	A	1			lab_strains_colony
+G9		Gaoua	Burkina Faso	4	A	2			lab_strains_colony
+G17		Gaoua	Burkina Faso	4	A	3			lab_strains_colony
+G25		Gaoua	Burkina Faso	4	A	4			lab_strains_colony
+G33		Gaoua	Burkina Faso	4	A	5			lab_strains_colony
+KIS_1		Kisumu	Kenya	4	A	6			lab_strains_colony
+KIS_9		Kisumu	Kenya	4	A	7			lab_strains_colony
+KIS_17		Kisumu	Kenya	4	A	8			lab_strains_colony
+KIS_25		Kisumu	Kenya	4	A	9			lab_strains_colony
+KIS_33		Kisumu	Kenya	4	A	10			lab_strains_colony
+Tie_1		Tiefora	Burkina Faso	4	A	11			lab_strains_colony
+Tie_9		Tiefora	Burkina Faso	4	A	12			lab_strains_colony
+G2		Gaoua	Burkina Faso	4	B	1			lab_strains_colony
+G10		Gaoua	Burkina Faso	4	B	2			lab_strains_colony
+G18		Gaoua	Burkina Faso	4	B	3			lab_strains_colony
+G26		Gaoua	Burkina Faso	4	B	4			lab_strains_colony
+G34		Gaoua	Burkina Faso	4	B	5			lab_strains_colony
+KIS_2		Kisumu	Kenya	4	B	6			lab_strains_colony
+KIS_10		Kisumu	Kenya	4	B	7			lab_strains_colony
+KIS_18		Kisumu	Kenya	4	B	8			lab_strains_colony
+KIS_26		Kisumu	Kenya	4	B	9			lab_strains_colony
+KIS_34		Kisumu	Kenya	4	B	10			lab_strains_colony
+Tie_2		Tiefora	Burkina Faso	4	B	11			lab_strains_colony
+Tie_10		Tiefora	Burkina Faso	4	B	12			lab_strains_colony
+G3		Gaoua	Burkina Faso	4	C	1			lab_strains_colony
+G11		Gaoua	Burkina Faso	4	C	2			lab_strains_colony
+G19		Gaoua	Burkina Faso	4	C	3			lab_strains_colony
+G27		Gaoua	Burkina Faso	4	C	4			lab_strains_colony
+G35		Gaoua	Burkina Faso	4	C	5			lab_strains_colony
+KIS_3		Kisumu	Kenya	4	C	6			lab_strains_colony
+KIS_11		Kisumu	Kenya	4	C	7			lab_strains_colony
+KIS_19		Kisumu	Kenya	4	C	8			lab_strains_colony
+KIS_27		Kisumu	Kenya	4	C	9			lab_strains_colony
+KIS_35		Kisumu	Kenya	4	C	10			lab_strains_colony
+Tie_3		Tiefora	Burkina Faso	4	C	11			lab_strains_colony
+Tie_11		Tiefora	Burkina Faso	4	C	12			lab_strains_colony
+G4		Gaoua	Burkina Faso	4	D	1			lab_strains_colony
+G12		Gaoua	Burkina Faso	4	D	2			lab_strains_colony
+G20		Gaoua	Burkina Faso	4	D	3			lab_strains_colony
+G28		Gaoua	Burkina Faso	4	D	4			lab_strains_colony
+G36		Gaoua	Burkina Faso	4	D	5			lab_strains_colony
+KIS_4		Kisumu	Kenya	4	D	6			lab_strains_colony
+KIS_12		Kisumu	Kenya	4	D	7			lab_strains_colony
+KIS_20		Kisumu	Kenya	4	D	8			lab_strains_colony
+KIS_28		Kisumu	Kenya	4	D	9			lab_strains_colony
+KIS_36		Kisumu	Kenya	4	D	10			lab_strains_colony
+Tie_4		Tiefora	Burkina Faso	4	D	11			lab_strains_colony
+Tie_12		Tiefora	Burkina Faso	4	D	12			lab_strains_colony
+G5		Gaoua	Burkina Faso	4	E	1			lab_strains_colony
+G13		Gaoua	Burkina Faso	4	E	2			lab_strains_colony
+G21		Gaoua	Burkina Faso	4	E	3			lab_strains_colony
+G29		Gaoua	Burkina Faso	4	E	4			lab_strains_colony
+G37		Gaoua	Burkina Faso	4	E	5			lab_strains_colony
+KIS_5		Kisumu	Kenya	4	E	6			lab_strains_colony
+KIS_13		Kisumu	Kenya	4	E	7			lab_strains_colony
+KIS_21		Kisumu	Kenya	4	E	8			lab_strains_colony
+KIS_29		Kisumu	Kenya	4	E	9			lab_strains_colony
+KIS_37		Kisumu	Kenya	4	E	10			lab_strains_colony
+Tie_5		Tiefora	Burkina Faso	4	E	11			lab_strains_colony
+Tie_13		Tiefora	Burkina Faso	4	E	12			lab_strains_colony
+G6		Gaoua	Burkina Faso	4	F	1			lab_strains_colony
+G14		Gaoua	Burkina Faso	4	F	2			lab_strains_colony
+G22		Gaoua	Burkina Faso	4	F	3			lab_strains_colony
+G30		Gaoua	Burkina Faso	4	F	4			lab_strains_colony
+G38		Gaoua	Burkina Faso	4	F	5			lab_strains_colony
+KIS_6		Kisumu	Kenya	4	F	6			lab_strains_colony
+KIS_14		Kisumu	Kenya	4	F	7			lab_strains_colony
+KIS_22		Kisumu	Kenya	4	F	8			lab_strains_colony
+KIS_30		Kisumu	Kenya	4	F	9			lab_strains_colony
+KIS_38		Kisumu	Kenya	4	F	10			lab_strains_colony
+Tie_6		Tiefora	Burkina Faso	4	F	11			lab_strains_colony
+Tie_14		Tiefora	Burkina Faso	4	F	12			lab_strains_colony
+G7		Gaoua	Burkina Faso	4	G	1			lab_strains_colony
+G15		Gaoua	Burkina Faso	4	G	2			lab_strains_colony
+G23		Gaoua	Burkina Faso	4	G	3			lab_strains_colony
+G31		Gaoua	Burkina Faso	4	G	4			lab_strains_colony
+G39		Gaoua	Burkina Faso	4	G	5			lab_strains_colony
+KIS_7		Kisumu	Kenya	4	G	6			lab_strains_colony
+KIS_15		Kisumu	Kenya	4	G	7			lab_strains_colony
+KIS_23		Kisumu	Kenya	4	G	8			lab_strains_colony
+KIS_31		Kisumu	Kenya	4	G	9			lab_strains_colony
+KIS_39		Kisumu	Kenya	4	G	10			lab_strains_colony
+Tie_7		Tiefora	Burkina Faso	4	G	11			lab_strains_colony
+Tie_15		Tiefora	Burkina Faso	4	G	12			lab_strains_colony
+G8		Gaoua	Burkina Faso	4	H	1			lab_strains_colony
+G16		Gaoua	Burkina Faso	4	H	2			lab_strains_colony
+G24		Gaoua	Burkina Faso	4	H	3			lab_strains_colony
+G32		Gaoua	Burkina Faso	4	H	4			lab_strains_colony
+G40		Gaoua	Burkina Faso	4	H	5			lab_strains_colony
+KIS_8		Kisumu	Kenya	4	H	6			lab_strains_colony
+KIS_16		Kisumu	Kenya	4	H	7			lab_strains_colony
+KIS_24		Kisumu	Kenya	4	H	8			lab_strains_colony
+KIS_32		Kisumu	Kenya	4	H	9			lab_strains_colony
+KIS_40		Kisumu	Kenya	4	H	10			lab_strains_colony
+Tie_8		Tiefora	Burkina Faso	4	H	11			lab_strains_colony
+NiC		Tiefora	Burkina Faso	4	H	12			lab_strains_colony
+Tie_16		Tiefora	Burkina Faso	6	A	1			lab_strains_colony
+Tie_24		Tiefora	Burkina Faso	6	A	2			lab_strains_colony
+Tie_32		Tiefora	Burkina Faso	6	A	3			lab_strains_colony
+Tie_40		Tiefora	Burkina Faso	6	A	4			lab_strains_colony
+Tia8		Tiassale	Cote D`Ivoire	6	A	5			lab_strains_colony
+Tia16		Tiassale	Cote D`Ivoire	6	A	6			lab_strains_colony
+Tia24		Tiassale	Cote D`Ivoire	6	A	7			lab_strains_colony
+Tia32		Tiassale	Cote D`Ivoire	6	A	8			lab_strains_colony
+Tia40		Tiassale	Cote D`Ivoire	6	A	9			lab_strains_colony
+VK7_8		VK7	Burkina Faso	6	A	10			lab_strains_colony
+VK7_16		VK7	Burkina Faso	6	A	11			lab_strains_colony
+VK7_24		VK7	Burkina Faso	6	A	12			lab_strains_colony
+Tie_17		Tiefora	Burkina Faso	6	B	1			lab_strains_colony
+Tie_25		Tiefora	Burkina Faso	6	B	2			lab_strains_colony
+Tie_33		Tiefora	Burkina Faso	6	B	3			lab_strains_colony
+Tia1		Tiassale	Cote D`Ivoire	6	B	4			lab_strains_colony
+Tia9		Tiassale	Cote D`Ivoire	6	B	5			lab_strains_colony
+Tia17		Tiassale	Cote D`Ivoire	6	B	6			lab_strains_colony
+Tia25		Tiassale	Cote D`Ivoire	6	B	7			lab_strains_colony
+Tia33		Tiassale	Cote D`Ivoire	6	B	8			lab_strains_colony
+VK7_1		VK7	Burkina Faso	6	B	9			lab_strains_colony
+VK7_9		VK7	Burkina Faso	6	B	10			lab_strains_colony
+VK7_17		VK7	Burkina Faso	6	B	11			lab_strains_colony
+VK7_25		VK7	Burkina Faso	6	B	12			lab_strains_colony
+Tie_18		Tiefora	Burkina Faso	6	C	1			lab_strains_colony
+Tie_26		Tiefora	Burkina Faso	6	C	2			lab_strains_colony
+Tie_34		Tiefora	Burkina Faso	6	C	3			lab_strains_colony
+Tia2		Tiassale	Cote D`Ivoire	6	C	4			lab_strains_colony
+Tia10		Tiassale	Cote D`Ivoire	6	C	5			lab_strains_colony
+Tia18		Tiassale	Cote D`Ivoire	6	C	6			lab_strains_colony
+Tia26		Tiassale	Cote D`Ivoire	6	C	7			lab_strains_colony
+Tia34		Tiassale	Cote D`Ivoire	6	C	8			lab_strains_colony
+VK7_2		VK7	Burkina Faso	6	C	9			lab_strains_colony
+VK7_10		VK7	Burkina Faso	6	C	10			lab_strains_colony
+VK7_18		VK7	Burkina Faso	6	C	11			lab_strains_colony
+VK7_26		VK7	Burkina Faso	6	C	12			lab_strains_colony
+Tie_19		Tiefora	Burkina Faso	6	D	1			lab_strains_colony
+Tie_27		Tiefora	Burkina Faso	6	D	2			lab_strains_colony
+Tie_35		Tiefora	Burkina Faso	6	D	3			lab_strains_colony
+Tia3		Tiassale	Cote D`Ivoire	6	D	4			lab_strains_colony
+Tia11		Tiassale	Cote D`Ivoire	6	D	5			lab_strains_colony
+Tia19		Tiassale	Cote D`Ivoire	6	D	6			lab_strains_colony
+Tia27		Tiassale	Cote D`Ivoire	6	D	7			lab_strains_colony
+Tis35		Tiassale	Cote D`Ivoire	6	D	8			lab_strains_colony
+VK7_3		VK7	Burkina Faso	6	D	9			lab_strains_colony
+VK7_11		VK7	Burkina Faso	6	D	10			lab_strains_colony
+VK7_19		VK7	Burkina Faso	6	D	11			lab_strains_colony
+VK7_27		VK7	Burkina Faso	6	D	12			lab_strains_colony
+Tie_20		Tiefora	Burkina Faso	6	E	1			lab_strains_colony
+Tie_28		Tiefora	Burkina Faso	6	E	2			lab_strains_colony
+Tie_36		Tiefora	Burkina Faso	6	E	3			lab_strains_colony
+Tia4		Tiassale	Cote D`Ivoire	6	E	4			lab_strains_colony
+Tia12		Tiassale	Cote D`Ivoire	6	E	5			lab_strains_colony
+Tia20		Tiassale	Cote D`Ivoire	6	E	6			lab_strains_colony
+Tia28		Tiassale	Cote D`Ivoire	6	E	7			lab_strains_colony
+Tia36		Tiassale	Cote D`Ivoire	6	E	8			lab_strains_colony
+VK7_4		VK7	Burkina Faso	6	E	9			lab_strains_colony
+VK7_12		VK7	Burkina Faso	6	E	10			lab_strains_colony
+VK7_20		VK7	Burkina Faso	6	E	11			lab_strains_colony
+VK7_28		VK7	Burkina Faso	6	E	12			lab_strains_colony
+Tie_21		Tiefora	Burkina Faso	6	F	1			lab_strains_colony
+Tie_29		Tiefora	Burkina Faso	6	F	2			lab_strains_colony
+Tie_37		Tiefora	Burkina Faso	6	F	3			lab_strains_colony
+Tia5		Tiassale	Cote D`Ivoire	6	F	4			lab_strains_colony
+Tia13		Tiassale	Cote D`Ivoire	6	F	5			lab_strains_colony
+Tia21		Tiassale	Cote D`Ivoire	6	F	6			lab_strains_colony
+Tia29		Tiassale	Cote D`Ivoire	6	F	7			lab_strains_colony
+Tia37		Tiassale	Cote D`Ivoire	6	F	8			lab_strains_colony
+VK7_5		VK7	Burkina Faso	6	F	9			lab_strains_colony
+VK7_13		VK7	Burkina Faso	6	F	10			lab_strains_colony
+VK7_21		VK7	Burkina Faso	6	F	11			lab_strains_colony
+VK7_29		VK7	Burkina Faso	6	F	12			lab_strains_colony
+Tie_22		Tiefora	Burkina Faso	6	G	1			lab_strains_colony
+Tie_30		Tiefora	Burkina Faso	6	G	2			lab_strains_colony
+Tie_38		Tiefora	Burkina Faso	6	G	3			lab_strains_colony
+Tia6		Tiassale	Cote D`Ivoire	6	G	4			lab_strains_colony
+Tia14		Tiassale	Cote D`Ivoire	6	G	5			lab_strains_colony
+Tia22		Tiassale	Cote D`Ivoire	6	G	6			lab_strains_colony
+Tia30		Tiassale	Cote D`Ivoire	6	G	7			lab_strains_colony
+Tia38		Tiassale	Cote D`Ivoire	6	G	8			lab_strains_colony
+VK7_6		VK7	Burkina Faso	6	G	9			lab_strains_colony
+VK7_14		VK7	Burkina Faso	6	G	10			lab_strains_colony
+VK7_22		VK7	Burkina Faso	6	G	11			lab_strains_colony
+VK7_30		VK7	Burkina Faso	6	G	12			lab_strains_colony
+Tie_23		Tiefora	Burkina Faso	6	H	1			lab_strains_colony
+Tie_31		Tiefora	Burkina Faso	6	H	2			lab_strains_colony
+Tie_39		Tiefora	Burkina Faso	6	H	3			lab_strains_colony
+Tia7		Tiassale	Cote D`Ivoire	6	H	4			lab_strains_colony
+Tia15		Tiassale	Cote D`Ivoire	6	H	5			lab_strains_colony
+Tia23		Tiassale	Cote D`Ivoire	6	H	6			lab_strains_colony
+Tia31		Tiassale	Cote D`Ivoire	6	H	7			lab_strains_colony
+Tia39		Tiassale	Cote D`Ivoire	6	H	8			lab_strains_colony
+VK7_7		VK7	Burkina Faso	6	H	9			lab_strains_colony
+VK7_15		VK7	Burkina Faso	6	H	10			lab_strains_colony
+VK7_23		VK7	Burkina Faso	6	H	11			lab_strains_colony
+Tie_41		Tiefora	Burkina Faso	9	A	1			lab_strains_colony
+KIS_43		Kisumu	Kenya	9	A	2			lab_strains_colony
+KIS_51		Kisumu	Kenya	9	A	3			lab_strains_colony
+VK7_34		VK7	Burkina Faso	9	A	4			lab_strains_colony
+VK7_42		VK7	Burkina Faso	9	A	5			lab_strains_colony
+Moz_8		Moz	Mozambique	9	A	6			lab_strains_colony
+Moz_16		Moz	Mozambique	9	A	7			lab_strains_colony
+Moz_24		Moz	Mozambique	9	A	8			lab_strains_colony
+Moz_32		Moz	Mozambique	9	A	9			lab_strains_colony
+Moz_40		Moz	Mozambique	9	A	10			lab_strains_colony
+NG_02		Ngousso	Cameroon	9	A	11			lab_strains_colony
+NG_10		Ngousso	Cameroon	9	A	12			lab_strains_colony
+KIS_44		Kisumu	Kenya	9	B	2			lab_strains_colony
+KIS_52		Kisumu	Kenya	9	B	3			lab_strains_colony
+VK7_35		VK7	Burkina Faso	9	B	4			lab_strains_colony
+Moz_1		Moz	Mozambique	9	B	5			lab_strains_colony
+Moz_9		Moz	Mozambique	9	B	6			lab_strains_colony
+Moz_17		Moz	Mozambique	9	B	7			lab_strains_colony
+Moz_25		Moz	Mozambique	9	B	8			lab_strains_colony
+Moz_33		Moz	Mozambique	9	B	9			lab_strains_colony
+Moz_41		Moz	Mozambique	9	B	10			lab_strains_colony
+NG_03		Ngousso	Cameroon	9	B	11			lab_strains_colony
+NG11		Ngousso	Cameroon	9	B	12			lab_strains_colony
+Tia_42		Tiassale	Cote D`Ivoire	9	C	1			lab_strains_colony
+KIS_45		Kisumu	Kenya	9	C	2			lab_strains_colony
+KIS_53		Kisumu	Kenya	9	C	3			lab_strains_colony
+VK7_36		VK7	Burkina Faso	9	C	4			lab_strains_colony
+Moz_2		Moz	Mozambique	9	C	5			lab_strains_colony
+Moz_10		Moz	Mozambique	9	C	6			lab_strains_colony
+Moz_18		Moz	Mozambique	9	C	7			lab_strains_colony
+Moz_26		Moz	Mozambique	9	C	8			lab_strains_colony
+Moz_34		Moz	Mozambique	9	C	9			lab_strains_colony
+Moz_42		Moz	Mozambique	9	C	10			lab_strains_colony
+NG_04		Ngousso	Cameroon	9	C	11			lab_strains_colony
+NG_12		Ngousso	Cameroon	9	C	12			lab_strains_colony
+G41		Gaoua	Burkina Faso	9	D	1			lab_strains_colony
+KIS_46		Kisumu	Kenya	9	D	2			lab_strains_colony
+KIS_54		Kisumu	Kenya	9	D	3			lab_strains_colony
+VK7_37		VK7	Burkina Faso	9	D	4			lab_strains_colony
+Moz_3		Moz	Mozambique	9	D	5			lab_strains_colony
+Moz_11		Moz	Mozambique	9	D	6			lab_strains_colony
+Moz_19		Moz	Mozambique	9	D	7			lab_strains_colony
+Moz_27		Moz	Mozambique	9	D	8			lab_strains_colony
+Moz_35		Moz	Mozambique	9	D	9			lab_strains_colony
+Moz_43		Moz	Mozambique	9	D	10			lab_strains_colony
+NG_05		Ngousso	Cameroon	9	D	11			lab_strains_colony
+NG_13		Ngousso	Cameroon	9	D	12			lab_strains_colony
+G42		Gaoua	Burkina Faso	9	E	1			lab_strains_colony
+KIS_47		Kisumu	Kenya	9	E	2			lab_strains_colony
+KIS_55		Kisumu	Kenya	9	E	3			lab_strains_colony
+VK7_38		VK7	Burkina Faso	9	E	4			lab_strains_colony
+Moz_4		Moz	Mozambique	9	E	5			lab_strains_colony
+Moz_12		Moz	Mozambique	9	E	6			lab_strains_colony
+Moz_20		Moz	Mozambique	9	E	7			lab_strains_colony
+Moz_28		Moz	Mozambique	9	E	8			lab_strains_colony
+Moz_36		Moz	Mozambique	9	E	9			lab_strains_colony
+Moz_44		Moz	Mozambique	9	E	10			lab_strains_colony
+NG_06		Ngousso	Cameroon	9	E	11			lab_strains_colony
+NG_14		Ngousso	Cameroon	9	E	12			lab_strains_colony
+G43		Gaoua	Burkina Faso	9	F	1			lab_strains_colony
+KIS_48		Kisumu	Kenya	9	F	2			lab_strains_colony
+VK7_31		VK7	Burkina Faso	9	F	3			lab_strains_colony
+VK7_39		VK7	Burkina Faso	9	F	4			lab_strains_colony
+Moz_5		Moz	Mozambique	9	F	5			lab_strains_colony
+Moz_13		Moz	Mozambique	9	F	6			lab_strains_colony
+Moz_21		Moz	Mozambique	9	F	7			lab_strains_colony
+Moz_29		Moz	Mozambique	9	F	8			lab_strains_colony
+Moz_37		Moz	Mozambique	9	F	9			lab_strains_colony
+Moz_45		Moz	Mozambique	9	F	10			lab_strains_colony
+NG_07		Ngousso	Cameroon	9	F	11			lab_strains_colony
+NG_15		Ngousso	Cameroon	9	F	12			lab_strains_colony
+KIS_41		Kisumu	Kenya	9	G	1			lab_strains_colony
+KIS_49		Kisumu	Kenya	9	G	2			lab_strains_colony
+VK7_32		VK7	Burkina Faso	9	G	3			lab_strains_colony
+VK7_40		VK7	Burkina Faso	9	G	4			lab_strains_colony
+Moz_6		Moz	Mozambique	9	G	5			lab_strains_colony
+Moz_14		Moz	Mozambique	9	G	6			lab_strains_colony
+Moz_22		Moz	Mozambique	9	G	7			lab_strains_colony
+Moz_30		Moz	Mozambique	9	G	8			lab_strains_colony
+Moz_38		Moz	Mozambique	9	G	9			lab_strains_colony
+Moz_46		Moz	Mozambique	9	G	10			lab_strains_colony
+NG_08		Ngousso	Cameroon	9	G	11			lab_strains_colony
+NG_16		Ngousso	Cameroon	9	G	12			lab_strains_colony
+KIS_42		Kisumu	Kenya	9	H	1			lab_strains_colony
+KIS_50		Kisumu	Kenya	9	H	2			lab_strains_colony
+VK7_33		VK7	Burkina Faso	9	H	3			lab_strains_colony
+VK7_41		VK7	Burkina Faso	9	H	4			lab_strains_colony
+Moz_7		Moz	Mozambique	9	H	5			lab_strains_colony
+Moz_15		Moz	Mozambique	9	H	6			lab_strains_colony
+Moz_23		Moz	Mozambique	9	H	7			lab_strains_colony
+Moz_31		Moz	Mozambique	9	H	8			lab_strains_colony
+Moz_39		Moz	Mozambique	9	H	9			lab_strains_colony
+NG_01		Ngousso	Cameroon	9	H	10			lab_strains_colony
+NG_09		Ngousso	Cameroon	9	H	11			lab_strains_colony
+NG17		Ngousso	Cameroon	10	A	1			lab_strains_colony
+NG25		Ngousso	Cameroon	10	A	2			lab_strains_colony
+NG33		Ngousso	Cameroon	10	A	3			lab_strains_colony
+NG41		Ngousso	Cameroon	10	A	4			lab_strains_colony
+SI_8		Siaya	Kenya	10	A	5			lab_strains_colony
+SI_16		Siaya	Kenya	10	A	6			lab_strains_colony
+SI_24		Siaya	Kenya	10	A	7			lab_strains_colony
+SI_32		Siaya	Kenya	10	A	8			lab_strains_colony
+SI_40		Siaya	Kenya	10	A	9			lab_strains_colony
+SI_48		Siaya	Kenya	10	A	10			lab_strains_colony
+SI_56		Siaya	Kenya	10	A	11			lab_strains_colony
+Tia_43		Tiassale	Cote D`Ivoire	10	A	12			lab_strains_colony
+NG18		Ngousso	Cameroon	10	B	1			lab_strains_colony
+NG26		Ngousso	Cameroon	10	B	2			lab_strains_colony
+NG34		Ngousso	Cameroon	10	B	3			lab_strains_colony
+SI_1		Siaya	Kenya	10	B	4			lab_strains_colony
+SI_9		Siaya	Kenya	10	B	5			lab_strains_colony
+SI_17		Siaya	Kenya	10	B	6			lab_strains_colony
+SI_25		Siaya	Kenya	10	B	7			lab_strains_colony
+SI_33		Siaya	Kenya	10	B	8			lab_strains_colony
+SI_41		Siaya	Kenya	10	B	9			lab_strains_colony
+SI_49		Siaya	Kenya	10	B	10			lab_strains_colony
+SI_57		Siaya	Kenya	10	B	11			lab_strains_colony
+KIS_56		Kisumu	Kenya	10	B	12			lab_strains_colony
+NG19		Ngousso	Cameroon	10	C	1			lab_strains_colony
+NG27		Ngousso	Cameroon	10	C	2			lab_strains_colony
+NG35		Ngousso	Cameroon	10	C	3			lab_strains_colony
+SI_2		Siaya	Kenya	10	C	4			lab_strains_colony
+SI_10		Siaya	Kenya	10	C	5			lab_strains_colony
+SI_18		Siaya	Kenya	10	C	6			lab_strains_colony
+SI_26		Siaya	Kenya	10	C	7			lab_strains_colony
+SI_34		Siaya	Kenya	10	C	8			lab_strains_colony
+SI_42		Siaya	Kenya	10	C	9			lab_strains_colony
+SI_50		Siaya	Kenya	10	C	10			lab_strains_colony
+SI_58		Siaya	Kenya	10	C	11			lab_strains_colony
+KIS_57		Kisumu	Kenya	10	C	12			lab_strains_colony
+NG20		Ngousso	Cameroon	10	D	1			lab_strains_colony
+NG28		Ngousso	Cameroon	10	D	2			lab_strains_colony
+NG36		Ngousso	Cameroon	10	D	3			lab_strains_colony
+SI_3		Siaya	Kenya	10	D	4			lab_strains_colony
+SI_11		Siaya	Kenya	10	D	5			lab_strains_colony
+SI_19		Siaya	Kenya	10	D	6			lab_strains_colony
+SI_27		Siaya	Kenya	10	D	7			lab_strains_colony
+SI_35		Siaya	Kenya	10	D	8			lab_strains_colony
+SI_43		Siaya	Kenya	10	D	9			lab_strains_colony
+SI_51		Siaya	Kenya	10	D	10			lab_strains_colony
+SI_59		Siaya	Kenya	10	D	11			lab_strains_colony
+KIS_58		Kisumu	Kenya	10	D	12			lab_strains_colony
+NG21		Ngousso	Cameroon	10	E	1			lab_strains_colony
+NG29		Ngousso	Cameroon	10	E	2			lab_strains_colony
+NG37		Ngousso	Cameroon	10	E	3			lab_strains_colony
+SI_4		Siaya	Kenya	10	E	4			lab_strains_colony
+SI_12		Siaya	Kenya	10	E	5			lab_strains_colony
+SI_20		Siaya	Kenya	10	E	6			lab_strains_colony
+SI_28		Siaya	Kenya	10	E	7			lab_strains_colony
+SI_36		Siaya	Kenya	10	E	8			lab_strains_colony
+SI_44		Siaya	Kenya	10	E	9			lab_strains_colony
+SI_52		Siaya	Kenya	10	E	10			lab_strains_colony
+SI_60		Siaya	Kenya	10	E	11			lab_strains_colony
+KIS_59		Kisumu	Kenya	10	E	12			lab_strains_colony
+NG22		Ngousso	Cameroon	10	F	1			lab_strains_colony
+NG30		Ngousso	Cameroon	10	F	2			lab_strains_colony
+NG38		Ngousso	Cameroon	10	F	3			lab_strains_colony
+SI_5		Siaya	Kenya	10	F	4			lab_strains_colony
+SI_13		Siaya	Kenya	10	F	5			lab_strains_colony
+SI_21		Siaya	Kenya	10	F	6			lab_strains_colony
+SI_29		Siaya	Kenya	10	F	7			lab_strains_colony
+SI_37		Siaya	Kenya	10	F	8			lab_strains_colony
+SI_45		Siaya	Kenya	10	F	9			lab_strains_colony
+SI_53		Siaya	Kenya	10	F	10			lab_strains_colony
+SI_61		Siaya	Kenya	10	F	11			lab_strains_colony
+KIS_60		Kisumu	Kenya	10	F	12			lab_strains_colony
+NG23		Ngousso	Cameroon	10	G	1			lab_strains_colony
+NG31		Ngousso	Cameroon	10	G	2			lab_strains_colony
+NG39		Ngousso	Cameroon	10	G	3			lab_strains_colony
+SI_6		Siaya	Kenya	10	G	4			lab_strains_colony
+SI_14		Siaya	Kenya	10	G	5			lab_strains_colony
+SI_22		Siaya	Kenya	10	G	6			lab_strains_colony
+SI_30		Siaya	Kenya	10	G	7			lab_strains_colony
+SI_38		Siaya	Kenya	10	G	8			lab_strains_colony
+SI_46		Siaya	Kenya	10	G	9			lab_strains_colony
+SI_54		Siaya	Kenya	10	G	10			lab_strains_colony
+SI_62		Siaya	Kenya	10	G	11			lab_strains_colony
+KIS_61		Kisumu	Kenya	10	G	12			lab_strains_colony
+NG24		Ngousso	Cameroon	10	H	1			lab_strains_colony
+NG32		Ngousso	Cameroon	10	H	2			lab_strains_colony
+NG40		Ngousso	Cameroon	10	H	3			lab_strains_colony
+SI_7		Siaya	Kenya	10	H	4			lab_strains_colony
+SI_15		Siaya	Kenya	10	H	5			lab_strains_colony
+SI_23		Siaya	Kenya	10	H	6			lab_strains_colony
+SI_31		Siaya	Kenya	10	H	7			lab_strains_colony
+SI_39		Siaya	Kenya	10	H	8			lab_strains_colony
+SI_47		Siaya	Kenya	10	H	9			lab_strains_colony
+SI_55		Siaya	Kenya	10	H	10			lab_strains_colony
+Tie_42		Tiefora	Burkina Faso	10	H	11			lab_strains_colony
+Tia_66		Tiassale	Cote D`Ivoire	9	B	1			lab_strains_colony

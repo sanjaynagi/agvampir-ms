@@ -1,0 +1,39 @@
+# Combined analysis: ampseq-agvampir002 (field samples) + ampseq-lab-strains (lab colonies)
+# AmpSeeker main @ 864ba69. FASTQs pre-demultiplexed in resources/reads/{sample_id}_{1,2}.fastq.gz
+dataset: ag-vampir-combined
+platform: illumina
+ploidy: 2
+panel: ag-vampir
+cohort-columns:
+  - location
+  - taxon
+  - dataset_origin
+targets: config/ag-vampir.bed
+metadata: config/metadata.tsv
+
+from-bcl: False
+illumina-dir: []
+fastq:
+  auto: True
+
+reference-name: AgamP4
+reference-fasta: resources/reference/Anopheles-gambiae-PEST_CHROMOSOMES_AgamP4.fa
+reference-gff3: resources/reference/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.12.gff3
+reference-snpeffdb: Anopheles_gambiae
+custom-snpeffdb: False
+
+quality-control:
+  sample-min-mean-target-coverage: 5
+  fastp: True
+  coverage: True
+  stats: True
+  multiqc: True
+
+analysis:
+  igv: False
+  sample-map: False # needs lat and longs
+  population-structure: True
+  genetic-diversity: True
+  allele-frequencies: True
+
+build-jupyter-book: True
