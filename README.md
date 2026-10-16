@@ -17,7 +17,7 @@ https://sanjaynagi.github.io/agvampir002-results/.
 | `config/` | AmpSeeker configuration for the combined run (`config.yaml`), sample metadata, target BED file and colour scheme |
 | `notebooks/` | The AmpSeeker analysis notebooks as executed for this paper (QC, population structure, allele frequencies, species ID, kdr analysis), with outputs cleared; the outputs are in the results book |
 | `analysis-notebooks/` | Additional analysis notebooks (taxon classifier, phenotype plots, VCF-to-array loading) |
-| `scripts/` | `34mb_gene_annotation.py` (Supplementary Data 4) and `mapping_rates_by_taxon.py` (mapping rates in Supplementary Table 2) |
+| `scripts/` | `34mb_gene_annotation.py` (Supplementary Data 4), `mapping_rates_by_taxon.py` (mapping rates in Supplementary Table 2) and `siaya_association_and_prediction.py` (binomial GLM association and XGBoost bioassay prediction, Supplementary Data 3) |
 | `figures/` | Main Figures 2 and 3A–B |
 | `supplement/` | Supplementary Tables 1–6, Data 1–4, Figures 1–6 and Texts 1–3 |
 
@@ -34,6 +34,6 @@ https://sanjaynagi.github.io/agvampir002-results/.
 Raw sequencing reads are not stored here (SRA BioProject PRJNA1207724; see the manuscript's Data availability statement).
 Per-sample taxon assignments and QC status are in `supplement/Supplementary Data 2.tsv`.
 
-## Not yet included
+## Association and prediction
 
-The genotype–phenotype association and bioassay prediction notebooks for the Siaya colony.
+`scripts/siaya_association_and_prediction.py` reruns the Siaya genotype–phenotype analysis on the combined QC-passed data (functions from the original GLM and XGBoost notebooks). It needs the amplicon-wide VCF produced by the AmpSeeker run.
