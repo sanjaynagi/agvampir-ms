@@ -10,7 +10,7 @@ meta=pd.read_csv('/Users/sanjinho/Projects/vectors/AmpSeeker-AgVampIR/results-co
 ref=pd.read_csv('/tmp/ag3_meta_unrestricted.csv').set_index('sample_id')
 tcol={'gambiae':'#DDCC77','coluzzii':'#CC6677','arabiensis':'#88CCEE','pwani':'#117733','bissau':'#AA4499','gcx4':'#999933','melas':'#332288','fontenillei':'#888888','merus':'#888888','quadriannulatus':'#888888'}
 tname={'gambiae':'An. gambiae','coluzzii':'An. coluzzii','arabiensis':'An. arabiensis','pwani':'Pwani (Gcx3)','bissau':'Bissau','gcx4':'Gcx4','melas':'An. melas','fontenillei':'other (Ag1000G)'}
-fig,ax=plt.subplots(figsize=(9,9))
+fig,ax=plt.subplots(figsize=(11,8))
 ax.plot(lines.x,lines.y,color='#b0b0b0',lw=0.5,zorder=1)
 isref=kind[leaves.id.values]=='ref'
 for tx in tcol:
@@ -22,8 +22,8 @@ ax.scatter(leaves.x[am],leaves.y[am],s=34,c=c,edgecolors='black',linewidths=0.4,
 ax.set_aspect('equal'); ax.axis('off')
 h1=[Line2D([],[],marker='s',ls='',color=tcol[t],label=tname[t],markersize=7) for t in ['gambiae','coluzzii','arabiensis','pwani','bissau','gcx4','melas','fontenillei']]
 h2=[Line2D([],[],marker='o',ls='',markerfacecolor=col[l],markeredgecolor='black',label=l.replace('_',' '),markersize=7) for l in col]
-l1=ax.legend(handles=h1,title='Ag1000G reference',loc='upper left',frameon=False,fontsize=8,title_fontsize=9)
-ax.add_artist(l1); ax.legend(handles=h2,title='Ag-vampIR cohort',loc='lower left',frameon=False,fontsize=8,title_fontsize=9)
+l1=ax.legend(handles=h1,title='Ag1000G reference',loc='upper left',bbox_to_anchor=(1.0,1.0),frameon=False,fontsize=8,title_fontsize=9)
+ax.add_artist(l1); ax.legend(handles=h2,title='Ag-vampIR cohort',loc='upper left',bbox_to_anchor=(1.0,0.52),frameon=False,fontsize=8,title_fontsize=9)
 dst='/Users/sanjinho/Projects/vectors/AmpSeeker-AgVampIR/results-combined/'
 plt.savefig(dst+'figure2C_ag1000g_nj.png',dpi=300,bbox_inches='tight'); plt.savefig(dst+'figure2C_ag1000g_nj.svg',bbox_inches='tight')
 print('saved',(~isref).sum(),'amplicon and',isref.sum(),'reference tips')

@@ -32,6 +32,7 @@ sets=sorted(ref.sample_set.unique())
 df=pd.DataFrame({"c":chrom,"p":pos,"i":np.arange(len(pos))}).sort_values(["c","p"])
 df["w"]=((df.groupby("c").p.diff().fillna(1e9))>1500).cumsum()
 dos_ref=np.full((len(pos),len(ref_ids)),-1,dtype=np.int8); keep_site=np.zeros(len(pos),bool); order=None
+other_n=np.zeros(len(pos),int); called_n=np.zeros(len(pos),int)
 for w,g in df.groupby("w"):
     c=g.c.iloc[0]; s,e=int(g.p.min()),int(g.p.max())
     ds=ag3.snp_calls(region=f"{c}:{s}-{e}",sample_sets=sets,sample_query="sample_id in @ids",sample_query_options={"local_dict":{"ids":ref_ids}},site_mask=None)
@@ -47,9 +48,11 @@ for w,g in df.groupby("w"):
         if (al==ref_a[i]).sum()==0: continue
         a=gt[k]  # samples, ploidy
         miss=(a<0).any(axis=1)
-        cnt=np.zeros(len(sid),dtype=np.int8)
-        for pl in range(a.shape[1]):
-            idx=np.clip(a[:,pl],0,len(al)-1); cnt+=(al[idx]==alt_a[i]).astype(np.int8)
-        cnt[miss]=-1; dos_ref[i,col]=cnt; keep_site[i]=True
+        idx=np.clip(a,0,len(al)-1); base=al[idx]                      # samples x ploidy, allele strings
+        other=((base!=ref_a[i])&(base!=alt_a[i])&(a>=0)).any(axis=1)  # carries a third base
+        cnt=(base==alt_a[i]).sum(axis=1).astype(np.int8)
+        cnt[miss]=-1; cnt[other]=-1                                    # third-base calls treated as missing
+        other_n[i]=int(other.sum()); called_n[i]=int((~miss).sum())
+        dos_ref[i,col]=cnt; keep_site[i]=True
     print("window",w,c,s,e,"done",flush=True)
-np.savez_compressed(f"{HERE}/ref_dosage.npz",dos=dos_ref,order=order,keep=keep_site)
+np.savez_compressed(f"{HERE}/ref_dosage.npz",dos=dos_ref,order=order,keep=keep_site,other_n=other_n,called_n=called_n)
